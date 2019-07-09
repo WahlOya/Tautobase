@@ -5,4 +5,6 @@ The information digitalized in Tautobase is mainly sourced from the tautomer cod
 
 Tautobase (.dwar file and SMIRKS transformations) and the tautomer codex can be downloaded from https://github.com/WahlOya/Tautobase.git
 
-For citation of the database: DOI
+For citation of the database please use: DOI
+
+For questions/comments, please contact the corresponding author of the article.
