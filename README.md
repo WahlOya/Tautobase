@@ -3,4 +3,4 @@ This repository contains relevant project files of publicly available tautomer d
 
 The information digitalized in Tautobase is mainly sourced from the tautomer codex authored by P.W. Kenny and P.J. Taylor, “The Prediction of Tautomer Preference in Aqueous Solution”.
 
-Tautobase (.dwar file and SMIRKS transformations) and the tautomer codex can be downloaded from (here).
+Tautobase (.dwar file and SMIRKS transformations) and the tautomer codex can be downloaded from https://github.com/WahlOya/Tautobase.git.
