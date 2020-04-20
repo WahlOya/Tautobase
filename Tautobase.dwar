@@ -1,6 +1,6 @@
 <datawarrior-fileinfo>
 <version="3.2">
-<created="1552928433905">
+<created="1587392865146">
 <rowcount="1680">
 </datawarrior-fileinfo>
 <datawarrior macroList>
@@ -1296,11 +1296,11 @@ idcoordinates2D	FragFp	idcoordinates2D 2	FragFp 2	Tautomer1	Tautomer2	K (T/E/M)	
 !BDqa`zbpXOwy~@M]}_cW@`	zpUWrWUBlG4BIF08B80V2!c01F%4HV01108%10V0X!8!40F!5G/02$V0F0	!BDqa`zc}~KAa~@M^}_cW@`	zpQWLWO40F4B0F08D8%V!F08$Fk01!8$41#X048$F08%1%F#V02$V0F0	dieH`LK`BDig{JijZ@@	dieH`LK`BLdTRLJjZf`aD		Water			Taut1 100% in solid state and chloroform	E		1120 B,C	2	23.08.18	1257
 !BHqa`jbpXGsx~@N\}OagA\}Ep	zpz_rWUBllJCM108BB8V2!d03F08#6HV01388$V10V0XV08!40F!5G&104&2#2V0F0	!BHqa`ja|~KA`~@N\}OagA\}Ep	zpv_LWO40k4R4108D8$2V!F08$Fl01088#841#X848!F0F080FF0V1%F#V02#2V0F0	dmuD`LKa@HRf_mrjZfj@@	dmuD`LKa@HrQQHsHjijZhHQ@		Water			Also in chloroform and solid state (ref.106)	E		1120 B,C	2	23.08.18	1258
 !BTqa`FbpX_{~@K_}g~w@`	zxUYrWy4l94B3!VB80V#c01F%4H!1108%10V0X!8$F!5G&8/#	!BTqa`FbpX_{~@K_}g~w@`	zxQYLWO40F4B#8@8#8$F08$FF01!8!F04$X048&8%1!8!J#V&V0F0	difH`Lx@aJY~rjZf`@	difH`Lx@aJY~rjff`cD		Water			Me = R group	E		1121 A,C	1	23.08.18	1259
-!Bg~H_[]}b@JH_x@b@JH@ox@	yJPl619G0F4!F2&8&1$2V040V)V(4%4V)4+V0F0	!Bg~H_[]}b@K~@Ha}b@JH@ha}	wNPY63V!8#F#8#80V!F&Hk!8$k0410V(F0F08102/*	deVH@DAIgeQej@@@@	deVH@DAIgeQeiiiBLP	-3.3	Water		248				1122 B,C		24.08.18	1260
-!B_c~Ho]^}b@HAos_|bGu~@K]}mwvH@h`BMq~@@	yJPl619G8F4F0F2!F01082%1$2k040V!FV#VV$104J%4V0c&4+V0F0	!B_c~Ho]^}b@HAos_|_`BH_[]}mwvH@h`BMrH_P	wNPn63V0880F0F#N01080V!F&Hk048$k041VV(F0F081020c/(	foAa@@D@RYYeUuVLyj@@@@@@	foAa@@D@RYYeUuVLyiB`XaACB@	-3.3	Water				C		1122 B,C		24.08.18	1261
-!BRGw~o|bB@TBHoX`BbGu~@H`Bb@I~@@	zrQt6GOr0F4s0H28E$9#80J106!2V040X$F#V6$405%4V!21$4+V0F0	!BRGw~o|bB@TBHoXc|_`BH_X`BbOrH_P	xPPY6IVa080k0F10180V080V!FJ!2!Hk!8$k041FV!8$F0F08102102/&	dcNHPJHHaHaInvUWZf`@@@	dcNHPJHHaHaInvUWZfZZPbd	-1.9	Water		511	logK (ethanol) = -3.5<NL>logK (dioxane) = -3.8	E		1122 B,C		24.08.18	1262
-!BRKu~ws_}r@K~PH`}b@JHo[x@bOrH@kx@	zrQt6GOr0F4s0H28E02!9#80J106!2V440X$F#VD!20405%4V!21!104F*V0F0	!BRKu~ws_}r@K~PH`}b@J~@Hb}bOrHHb}	xPPY6IVa080k0F10182V080V!FJ!2!Hk408$k041FV8082#F0F08102102#3/!	dknHpFhHaHcHcHiCLhdmNjZ@@@@	dknHpFhHaHcHcHiCLhdmNjYiiBFP	-1.0	Water		511	logK (ethanol) = -2.2 (Ref.511)<NL>logK (dioxane) = -2.7 (Ref.511)			1122 B,C		24.08.18	1263
-!BRCv~gu]}r@I~PHc]bOrHOSx@bOrH@cx@	zrQt6GOr0F4s0H28E02!9#80J104!2V440X$F#VD!20405%4V#1!104F*V8F0	!BRCv~gu]}r@I~PHc]bOp~@H`}b@JHHc]	xPPY6IVa080k0F10182V080V!FJ%Hk408$k041FV8082#F0F081021%3.8!	dknHpFhIAICICHiCLhdmNjZ@@@@	dknHpFhIAICICHiCLhdmNjYiiBFP	0.1	Water				C		1122 B,C		24.08.18	1264
+!B_c~Ho]^}b@JH_Wx@b@JH@gx@	yJPl619G0F4!F2&8&1$2V04+V(40F$V)4%2$V0FF	!B_c~Ho]^}bOrHoWx@bOrHGx@	yJPW619!F4F0F#8#82V!F&Hk018$V8410V02!8!J0F081#V1%4$F2$V0F0	deUH@DhDf^UFVh@@@@	deUH@DhDf^UFVfiXHr@	-3.3	Water		248				1122 B,C		24.08.18	1260
+!Boe~HOY\}bOs~wu_|bKv~@M^}u{vHH`BUr~@@	yJPl619G8F4F0F2!F01082%1$2k04$FV#VV$104J0F$V0c&4%2$V0FF	!Boe~HOY\}bOs~wu_|bKv~@M^}u{vHH`BUr~@@	yJPl61908F4F0F#N01082V!F&Hk058$V841VV02!8!J0F081#c1%4$F2$V0F0	foAQ@@D\@drsJkjlYsT@@@@@@	foAQ@@D\@drsJkjlYsREAHdBFH	-3.3	Water				C		1122 B,C		24.08.18	1261
+!BRKu~w|`BdBHOX`BbKv~@Hc|b@J~@@	zrQt6GOr0F4s0H28E$9#80J106!2V0402$F#V6$4050F$V!21$4%2$V0FF	!BRKu~w|`BdBHOXc|bKv~@Hc|b@J~`@	zLPW6G9a0F4k0F10180V082V!FJ!2!Hk018$V841FV02808!J0F081!1V3%4$F2$V0F0	dcMHPJx`bDbDf{YU]jZ@@@@	dcMHPJx`bDbDf{YU]jYjVBJ`	-1.9	Water		511	logK (ethanol) = -3.5<NL>logK (dioxane) = -3.8	E		1122 B,C		24.08.18	1262
+!BRCv~gu]}r@I~PHc]bOrHOSx@bOrHCx@	zrQt6GOr0F4s0H28E02!9#80J106!2V4402$F#VD!204050F$V!21!104F$2$V0FF	!BRCv~gu]}r@I~PHc]b@JHOSx@bOrHCx@	zLPW6G9a0F4k0F10182V082V!FJ!2!Hk418$V841FV82828!J0F081!1V3#304$F2$V0F0	dkmHpFF`bDbLbLbdLrbRtzih@@@@	dkmHpFF`bDbLbLbdLrbRtzifiXHZ@	-1.0	Water		511	logK (ethanol) = -2.2 (Ref.511)<NL>logK (dioxane) = -2.7 (Ref.511)			1122 B,C		24.08.18	1263
+!BRMt~{q^}r@J~PHa]bOrHw]x@bOrH@mx@	zrQt6GOr0F4s0H28E02!9#80J104!2V4402$F#VD!204050F$V#1!104F$2$V8FF	!BRMt~{q^}r@J~PHa]bOrHw]x@bOrH@mx@	zLPW6G9a0F4k0F10182V082V!FJ%Hk418$V841FV82828!J0F081!1V1#304$F2$V8F0	dkmHpFF`dDdLdLbdLrbRtzih@@@@	dkmHpFF`dDdLdLbdLrbRtzifiXHZ@	0.1	Water				C		1122 B,C		24.08.18	1264
 !BTqa`FbpX_{~@K_}g~w@`	zpUWMWO4WF4B0F08B80V280c!F08#42k01!8$4!V0X!8V040F!11#1%4%2$V0FV	!BTqa`Fg~KAc~@K_}g~w@`	zoQW61940F480F!B80V080V!F&Hk01!8$410V0X!8!40F081$1%4%2$V0F0	dieH`LK`BDig{JifZ@@	dieH`LK`BLdTRLJjYf`aD	-1.0	Water			Taut 1 preferred in DMSO and CCl4	C		1124 B		24.08.18	1265
 !Bdyb`Zlshoy~@C_}om|w@k_}_`Bw@	zrUdrtSiYF4w3Hk8EB@VH90c88FJ804442k49308V06J4!VDXV2NV050k!11#1V!104F$2$V8FV	!Bdyb`Zk~sNa~@C_}om|w@k_}_`Bw@	zqQW6G9a0F4s0F10C82V080V!FJ%Hk41!8$41FV8X828!J0F081!101#304%2$V8F0	dcMHHLK`BIdEdMdDig{kJifZj@@	dcMHHLK`BIdEdMdLdTRLtaUSLuTDH`	1.3	Water			Taut 1 preferred in CCl4, Taut 2 preferred in DMSO	C		1124 B		24.08.18	1266
 !BbOq~@Da}om}HHC~kJ_LzJAjXFT	zrUdrtSiYF4w3Hk8EB8VH90c88FJ806442k09308!6J4!V6XV0NV050k!11#3%4%2$V0FV	!BbOq~@Da}om}HHC~kJ_LzJAjXFT	zqQW6G9a0F4s0F10C80V080V!FJ!2!Hk01!8$41FV0X808!J0F081!103%4%2$V0F0	dmuHpJD`bDbNBDf{YYVijZP@	dmuHpJD`bDbNBDf{YYVifjPbd	-0.3	Water		511	Taut 1 preferred in DMSO and CCl4<NL>logK (dioxane) = -1.1<NL>logK (ethanol) = -0.7			1124 B		24.08.18	1267
@@ -1720,8 +1720,8 @@ idcoordinates2D	FragFp	idcoordinates2D 2	FragFp 2	Tautomer1	Tautomer2	K (T/E/M)	
 <hitlist data>
 <hitlistName="<selection>">
 <hitlistData="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@">
-<hitlistData="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@`@@@@@@@@@">
 <hitlistData="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@">
+<hitlistData="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@">
 <hitlistData="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@">
 </hitlist data>
 <datawarrior properties>
@@ -1732,7 +1732,6 @@ idcoordinates2D	FragFp	idcoordinates2D 2	FragFp 2	Tautomer1	Tautomer2	K (T/E/M)	
 <columnAlias_3="% (Tautomer 1)	% (Tautomer1)">
 <columnAlias_4="% (Tautomer 2)	Preferred">
 <columnAlias_5="Data added	Date added">
-<columnFilter_Table="">
 <columnOrder_Table="Tautomer1	Tautomer2	K (T/E/M)	% (Tautomer 1)	% (Tautomer 2)	Solvent	Temperature	Meas'd/Calc'd-Pred'd-Est'd	Reference	Add. Info	ID in text	Data added	Row Nr">
 <columnWidth_Table_% (Tautomer 1)="100">
 <columnWidth_Table_% (Tautomer 2)="74">
@@ -1753,7 +1752,7 @@ idcoordinates2D	FragFp	idcoordinates2D 2	FragFp 2	Tautomer1	Tautomer2	K (T/E/M)	
 <columnWrapping_Table_K (T/E/M)="true">
 <columnWrapping_Table_Reference="true">
 <columnWrapping_Table_Solvent="true">
-<currentRecord="817">
+<currentRecord="1259">
 <detailView="height[Data]=0.33333;height[Tautomer1]=0.33333;height[Tautomer2]=0.33333">
 <filter0="#string#	K (T/E/M)">
 <filter1="#string#	Solvent">
@@ -1768,16 +1767,15 @@ idcoordinates2D	FragFp	idcoordinates2D 2	FragFp 2	Tautomer1	Tautomer2	K (T/E/M)	
 <filter7="#string#	ID in text">
 <filter8="#string#	% (Tautomer 2)	#disabled#">
 <filter9="#string#	Data added">
-<mainSplitting="0.74738">
+<mainSplitting="0.75116">
 <mainView="Table">
 <mainViewCount="2">
 <mainViewDockInfo0="root">
 <mainViewDockInfo1="Table	center">
-<mainViewInFront0="true">
 <mainViewName0="Table">
 <mainViewName1="Macro Editor">
 <mainViewType0="tableView">
 <mainViewType1="macroEditor">
-<rightSplitting="0.6575">
+<rightSplitting="0.65637">
 <rowHeight_Table="80">
 </datawarrior properties>
