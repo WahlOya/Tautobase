@@ -30,4 +30,4 @@ Please add the reference mentioned above if you use Tautobase in your
 study.
 
 For questions/comments, please contact the corresponding author of the
-article.
+article, Oya Wahl <oyawahl@gmail.com>.
