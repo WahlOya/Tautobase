@@ -1,17 +1,33 @@
 # Tautobase
-This repository contains relevant project files of publicly available tautomer database "Tautobase". Each tautomer pair in the database has matching atom positions. The first version of the database contains 1680 unique tautomer pairs and available both as a DataWarrior file (.dwar) and a text file containing SMIRKS transformations along with the non-structural information.
 
+This repository contains relevant project files of the public tautomer
+database "Tautobase", an optional plugin for
+[DataWarrior](http://openmolecules.org/datawarrior/index.html).  It was
+presented in the publication "Tautobase: An Open Tautomer Database",
+Wahl, O. and Sander T. _J. Chem. Inf. Model._ 2020, 60, 1085-1089;
+[doi 10.1021/acs.jcim.0c00035](https://doi.org/10.1021/acs.jcim.0c00035).
+Since release February 2020, the installation of DataWarrior (release 2.5.1)
+includes this data base as one of its reference files.
 
-The information digitalized in Tautobase is mainly sourced from the tautomer codex authored by P.W. Kenny and P.J. Taylor, “The Prediction of Tautomer Preference in Aqueous Solution”. (https://doi.org/10.6084/m9.figshare.8966276.v1)
+The principle source of information digitized in Tautobase is the
+tautomer codex authored by P.W. Kenny and P.J. Taylor, “The Prediction of
+Tautomer Preference in Aqueous Solution”
+(<https://doi.org/10.6084/m9.figshare.8966276.v1>).
 
+Each tautomer pair in the database has matching atom positions. The first
+version of the database contains 1680 unique tautomer pairs and available
+both as a DataWarrior file (`.dwar`) and a text file containing SMIRKS
+transformations along with the non-structural information.
 
-Tautobase (.dwar file and SMIRKS transformations) can be downloaded from https://github.com/WahlOya/Tautobase.git
+The list of references, mentioned in the column "Reference" in the `.dwar`
+file equally is provided by this repository.
 
+Tautobase (`.dwar` file and SMIRKS transformations) can be downloaded
+separately from DataWarrior at
+<https://github.com/WahlOya/Tautobase.git>
 
-List of references, mentioned in the column "Reference" in the .dwar file can also be downloaded from this repository.
+Please add the reference mentioned above if you use Tautobase in your
+study.
 
-
-If you use Tautobase in your study, for citation please use: DOI
-
-
-For questions/comments, please contact the corresponding author of the article.
+For questions/comments, please contact the corresponding author of the
+article, Oya Wahl <oyawahl@gmail.com>.
